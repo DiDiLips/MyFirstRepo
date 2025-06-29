@@ -1,1 +1,2 @@
-
+Brief Introduction About Myself
+My name is Diae-Eddine Akdi, a passionate and driven individual with a background in Electronic Systems (BAC+2) and hands-on experience in plastic injection maintenance. I am currently deepening my knowledge through the ALX program, with a particular interest in cloud computing and digital innovation. I’m focused on building secure and scalable cloud infrastructure, and I’m committed to using technology to solve real-world problems—especially in areas like tourism, where I’m developing a digital solution to assist international visitors in Morocco. My goal is to grow into a role that blends technical expertise with impactful solutions, both locally and globally.
