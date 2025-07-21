@@ -1,2 +1,3 @@
 What I have learned from this cours:
-I've learned a lot about the basics of version control and how Git helps in tracking changes and collaborating with others. Understanding commits and pushes has been a key takeaway.
+One thing I've learned so far in this course is how to use Git and GitHub effectively to track and manage code changes. It's helping me understand version control workflows.
+
