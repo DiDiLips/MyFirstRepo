@@ -1,3 +1,1 @@
-What I have learned from this cours:
-One thing I've learned so far in this course is how to use Git and GitHub effectively to track and manage code changes. It's helping me understand version control workflows.
-
+What I have learned from this course is how to use Git to track changes and collaborate effectively on code.
